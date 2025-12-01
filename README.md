@@ -1,5 +1,5 @@
 # MEET-Scavenger-Hunt
-# 🗝️ MEET Scavenger Hunt: Step 1 — The Missing Key
+# 🗝️ 404: Key Not Found
 
 Lill has lost her room key somewhere in Nave Shalom, and it’s up to you to find it.
 
@@ -24,3 +24,21 @@ Your mission begins here.
 To move forward in the hunt — and learn which TA took Lill’s key — you must debug the toast’s code.
 
 Good luck, and welcome to Step 1.
+
+## Step 1: Fix the Toast’s Code
+
+To learn which TA took the key, you must debug the code provided.
+Solve the challenge, identify the TA, and unlock the next step.
+
+## Step 2: Find the TA
+
+Once you know which TA has the key, go find them in Nave Shalom and ask for it.
+If your answer is correct, they’ll give you the next clue.
+
+## Step 3: Solve the Crossword Cipher
+
+There’s a hidden word inside the crossword puzzle. Decode it using the pattern:
+
+A3[0] D1[2] A7[3] D2[1]
+
+Once you uncover the hidden code you are ready to put it on the great decoding machine found in the first floor of the library
