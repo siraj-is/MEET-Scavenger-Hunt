@@ -32,9 +32,9 @@ Solve the challenge, identify the TA, and unlock the next step.
 
 ## Step 2: Find the TA
 
-Once you know which TA has the key, go find them in Nave Shalom and ask for it.
+Once you know which TA has the key, go find them in Neve Shalom and ask for it.
 However the TA might have a request.
-If your answer is correct, they’ll give you the next clue.
+If you complete their request, they might give you the next clue.
 
 ## Step 3: Solve the Crossword Cipher
 
