@@ -1,5 +1,5 @@
-# MEET-Scavenger-Hunt
 # 🗝️ 404: Key Not Found
+![404-error](https://github.com/user-attachments/assets/c702f2c2-4263-4fc5-b2b0-f5680f5e3be4)
 
 Lill has lost her room key somewhere in Nave Shalom, and it’s up to you to find it.
 
