@@ -56,6 +56,9 @@ Using lambda functions with Python’s built-in tools (sorted, filter, map), com
 
 There’s a hidden word inside the crossword puzzle. Decode it using the pattern:
 
-A3[0] D1[2] A7[3] D2[1]
+A2[3] D3[5] D1[4] A5[3] D4[7]
+
+`A stands for Across, D stands for down`
+
 
 Once you uncover the hidden code you are ready to put it on the great decoding machine found in the first floor of the library
