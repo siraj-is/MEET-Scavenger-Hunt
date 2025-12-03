@@ -36,6 +36,22 @@ Once you know which TA has the key, go find them in Neve Shalom and ask for it.
 However the TA might have a request.
 If you complete their request, they might give you the next clue.
 
+### Lambda Minilab
+```
+students = [
+    {"name": "Razi",  "score": 88},
+    {"name": "Eitan", "score": 73},
+    {"name": "Roni",  "score": 95},
+    {"name": "Ram",   "score": 60},
+    {"name": "Amal",  "score": 82}
+]
+```
+Using lambda functions with Python’s built-in tools (sorted, filter, map), complete the following tasks:
+   1. Sort the students by score
+   2. Filter students who scored above 75
+   3. Create a new list of uppercase names
+
+
 ## Step 3: Solve the Crossword Cipher
 
 There’s a hidden word inside the crossword puzzle. Decode it using the pattern:
